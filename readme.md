@@ -54,5 +54,7 @@
 3. Now to store a key-valur pair use cmd `vault kv put kv-v1/<DEFINE PATH> <KEY>=VALUE>`<br/> e.g 
 <b>`vault kv put kv-v1/aws-apiKey awsApiKey=AAaaBBccDDeeOTXzSMT1234BB_Z8JzG7JkSVxI`</b>
 
+4.Check your UI
+
 #### Happy storing secrets! :rocket:
  
